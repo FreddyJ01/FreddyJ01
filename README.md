@@ -1,14 +1,8 @@
 # 💫 About Me:
-🔭 I'm focusing on cloud application development!<br>
-🌱 I'm currently learning C#<br>
+🔭 I'm focusing on Cloud Application Development!<br>
+🌱 I'm currently learning .NET Framework, C#, Microsoft Azure and More.<br>
 👯 I’m looking to collaborate on a calendar application that keeps long-term goals in mind<br>
 ⚡ Interests: Running, Fishing, Music
-<br>
-<br>
-
-## 📫 Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddyjohnson01)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Fred.E.Johnson@OutLook.com)
 <br>
 <br>
 

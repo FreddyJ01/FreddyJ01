@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm focusing on Cloud Application Development!<br>
-🌱 I'm currently learning .NET Framework, C#, Microsoft Azure and More.<br>
+🔭 I'm focusing on StackTrack, My Library Management Console App!<br>
+🌱 I'm currently learning SQL and Data Manipulation<br>
 👯 I’m looking to collaborate on a calendar application that keeps long-term goals in mind<br>
 ⚡ Interests: Running, Fishing, Music
 <br>

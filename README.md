@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I'm focusing on StackTrack, My Library Management Console App!<br>
-🌱 I'm currently learning SQL and Data Manipulation<br>
-👯 I’m looking to collaborate on a calendar application that keeps long-term goals in mind<br>
+🔭 I'm focusing on rebuilding community, getting people moving and restoring the earth through my volunteer application!<br>
+🌱 I'm currently learning how to navigate the entire SDLC solo.<br>
+👯 I’m looking to collaborate on a calendar application that keeps long-term goals in mind.<br>
 ⚡ Interests: Running, Fishing, Music
 <br>
 <br>

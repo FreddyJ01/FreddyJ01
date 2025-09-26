@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I'm focusing on rebuilding community, getting people moving and restoring the earth through my volunteer application!<br>
-🌱 I'm currently learning how to navigate the entire SDLC solo.<br>
-👯 I’m looking to collaborate on a calendar application that keeps long-term goals in mind.<br>
+🔭 I'm focusing on building solutions, I love solving problems and providing services to others!<br>
+🌱 I'm currently learning Python, I am excited about how scripting can be integrated with AI for automation!<br>
+👯 I’m looking to collaborate on anything, I love thinking for hours on end, developing and perfecting projects that drive progress.<br>
 ⚡ Interests: Running, Fishing, Music
 <br>
 <br>

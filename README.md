@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer, MSSA Alumni, and United States Army Veteran. I believe that every single decision we make is either for growth or decay, and I choose to grow. I am passionate about continuous improvement, working alongside amazing people, and creating value that helps people everyday.
+Software Engineer, MSSA Alumni, and United States Army Veteran. I believe that every single decision we make is either for growth or decay, and I choose to grow. I am passionate about continuous improvement, working alongside amazing people, and tackling challenging problems to create value that helps people everyday.
 <br>
 <br>
 
